@@ -1,0 +1,5 @@
+main: net.minecore.randomizer.Main
+name: dungeon-randomizer
+version: 1.0
+author: Deadrit
+description: Dungeon generator and content randomizer
